@@ -1,4 +1,4 @@
-# Horiseon Social Solution Services
+# [Horiseon Social Solution Services][homepage]
 
 ## Introduction
 
@@ -21,8 +21,8 @@ The specifications requested by our clientele has been implemented, along with a
 Additionally, the live URL has been tested to function correctly and load with no errors nor holdups.
 Assuming everything else goes well, all that is left is for our cilent to review the results.
 
-![sample](assets\images\01-html-css-git-homework-demo.png)
+![sample](01-html-css-git-homework-demo.png)
 
 © 2019 [**Horiseon Social Solution Services, Inc.**][homepage]
 
-[homepage]:
+[homepage]:https://c-k999.github.io/module-1-c/
